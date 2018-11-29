@@ -29,7 +29,7 @@
 
 - Web白熱教室
   - [JavaScriptのオブジェクトを使ってメソッドを作成する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/javascript-grammar/how-to-create-methods-in-object-in-js/)
-  - [【JavaScript】オブジェクトのthis【アロー関数に注意】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/javascript-grammar/undersstan-the-this-of-object-in-js/)
+  - [【JavaScript】オブジェクトのthis【アロー関数に注意】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/javascript-grammar/understand-the-this-of-object-in-js/)
   - [JavaScriptの配列でイテレーション処理をする](https://tsuyopon.xyz/learning-contents/web-dev/javascript/javascript-grammar/how-to-iterate-an-array-in-js/)
   - [【エクササイズ】JavaScriptのイテレーションメソッドを関数として自作する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/javascript-grammar/js_excercise_for_grammar_part_9/)
 - MDN
