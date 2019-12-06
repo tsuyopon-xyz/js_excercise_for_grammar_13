@@ -25,10 +25,9 @@ const myArray = {
 		}
 	},
 	map: function (callback) {
-		let newValue;
 		const newArray = [];
 		this.forEach((value, index) => {
-			newValue = callback(value, index);
+			const	newValue = callback(value, index);
 			newArray.push(newValue);
 		});
 		return newArray;
